@@ -1,20 +1,22 @@
 {
   "desktop": {
-    "version": "0.4.6",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.6/OrthoOrganizer_Setup_v0_4_6.exe",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.6",
+    "version": "0.4.7",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.7/OrthoOrganizer_Setup_v0_4_7.exe",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.7",
     "notes": [
       "Όλοι οι τύποι εφημερίας εμφανίζονται στην Επισκόπηση.",
-      "Η εισαγωγή μεγάλων αρχείων Excel γίνεται χωρίς να παγώνει το παράθυρο."
+      "Η εισαγωγή μεγάλων αρχείων Excel γίνεται χωρίς να παγώνει το παράθυρο.",
+      "Ο έλεγχος ενημερώσεων δείχνει ορατή πρόοδο και μήνυμα σφάλματος αν αποτύχει."
     ]
   },
   "android": {
-    "version": "0.5.9",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.5.9/OrthoOrganizerMobile_v0_5_9.apk",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.5.9",
+    "version": "0.6.0",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.0/OrthoOrganizerMobile_v0_6_0.apk",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.0",
     "notes": [
-      "Πλήρης εισαγωγή Excel και επεξεργασία εγγραφών.",
-      "Αυτόματος έλεγχος ενημερώσεων από GitHub."
+      "Εμφανής τρέχουσα έκδοση στην αρχική οθόνη.",
+      "Ένδειξη προόδου στον έλεγχο ενημερώσεων.",
+      "Πλήρης εισαγωγή Excel και επεξεργασία εγγραφών."
     ]
   }
 }
