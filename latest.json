@@ -10,14 +10,15 @@
     ]
   },
   "android": {
-    "version": "0.6.0",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.0/OrthoOrganizerMobile_v0_6_0.apk",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.0",
+    "version": "0.6.1",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.1/OrthoOrganizerMobile_v0_6_1.apk",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.1",
     "notes": [
-      "Εμφανής τρέχουσα έκδοση στην αρχική οθόνη.",
+      "Εμφανής τρέχουσα έκδοση στην αρχική οθόνη (v0.6.1).",
       "Νέο πλευρικό hamburger menu με Επισκόπηση, Εφημερίες, Χειρουργεία, Στατιστικά, Widget και Ρυθμίσεις.",
       "Ένδειξη προόδου στον έλεγχο ενημερώσεων.",
       "Πλήρης εισαγωγή Excel και επεξεργασία εγγραφών.",
+      "Η 0.6.1 είναι κανονική αναβάθμιση από την 0.6.0.",
       "Για την παλιά 0.5.9 απαιτείται μία καθαρή εγκατάσταση λόγω αλλαγής signing key· τα cloud δεδομένα παραμένουν."
     ]
   }
