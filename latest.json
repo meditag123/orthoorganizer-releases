@@ -1,8 +1,8 @@
 {
   "desktop": {
-    "version": "0.4.14",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.14/OrthoOrganizer_Setup_v0_4_14.exe",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.14",
+    "version": "0.4.18",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.18/OrthoOrganizer_Setup_v0_4_18.exe",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.18",
     "notes": [
       "Πατρώνυμο, ηλικία από ΑΜΚΑ, βοηθοί και προσωπικός φάκελος ασθενούς.",
       "Προτάσεις κειμένου για διάγνωση/επέμβαση και λήψη ή εκτύπωση εικόνων.",
@@ -14,14 +14,19 @@
     ]
   },
   "android": {
-    "version": "0.6.3",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.3/OrthoOrganizerMobile_v0_6_3.apk",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.3",
+    "version": "0.6.8",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.8/OrthoOrganizerMobile_v0.6.8.apk",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.8",
     "notes": [
       "Πατρώνυμο, ηλικία από ΑΜΚΑ, βοηθοί και αυτόματες προτάσεις κειμένου.",
       "Πλήρης εισαγωγή Excel και αποθήκευση νέων εταιρειών υλικών.",
       "Αυτόματος έλεγχος ενημερώσεων από GitHub.",
-      "Επίσημο navy/teal λογότυπο launcher και μέσα στην εφαρμογή."
+      "Επίσημο navy/teal λογότυπο launcher και μέσα στην εφαρμογή.",
+      "Νέα αρχική dashboard με κάρτες, γρήγορη εικόνα και πρόσφατα χειρουργεία.",
+      "Εφημερίες ομαδοποιημένες ανά μήνα με καθαρή προβολή ρόλου και νοσοκομείου.",
+      "Επιλογή μήνα/έτους, compact λίστα εφημεριών και στατιστικά σε χωριστές καρτέλες.",
+      "Διορθωμένα system insets και εσωτερική πλοήγηση με το πλήκτρο Back.",
+      "Μικρότερο adaptive launcher icon με ολόκληρο το λογότυπο, συμπαγής λίστα εφημεριών και καθαρή προβολή χωρίς βοηθητικά κείμενα."
     ]
   }
 }
