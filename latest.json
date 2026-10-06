@@ -14,14 +14,15 @@
     ]
   },
   "android": {
-    "version": "0.6.11",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.11/OrthoOrganizerMobile_v0.6.11.apk",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.11",
+    "version": "0.6.13",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.13/OrthoOrganizerMobile_v0.6.13.apk",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.13",
     "notes": [
       "Zoom με pinch και πλήκτρα στη φωτογραφική προεπισκόπηση συνημμένων.",
       "Παρατεταμένο πάτημα στην εικόνα για αποθήκευση στη συσκευή.",
       "Νέα επιλογή Στατιστικά στη διαμόρφωση αρχικής οθόνης και συνοπτικά στατιστικά στην Επισκόπηση.",
-      "Σύρσιμο χειρουργείου προς τα αριστερά για διαγραφή με επιβεβαίωση.",
+      "Το κουμπί διαγραφής μένει κρυφό μέχρι το σύρσιμο προς τα αριστερά και χρησιμοποιεί διακριτικό muted μπορντό/ροζ χρώμα.",
+      "Αφαιρέθηκε το κυκλικό κουμπί συγχρονισμού από την επάνω δεξιά γωνία· ο συγχρονισμός παραμένει στο μενού και στις ρυθμίσεις.",
       "Πέντε χρωματικά θέματα στις Ρυθμίσεις → Εμφάνιση → Χρώματα εφαρμογής.",
       "Η προηγούμενη λειτουργία διατήρησης σύνδεσης, compact εφημερίες και αποφυγή διπλότυπων παραμένουν ενεργές."
     ]
