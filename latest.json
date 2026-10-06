@@ -14,16 +14,14 @@
     ]
   },
   "android": {
-    "version": "0.6.9",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.9/OrthoOrganizerMobile_v0.6.9.apk",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.9",
+    "version": "0.6.10",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.10/OrthoOrganizerMobile_v0.6.10.apk",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.10",
     "notes": [
-      "Η διπλή επιλογή Back κρατά τη σύνδεση ενεργή και βάζει την εφαρμογή στο παρασκήνιο.",
-      "Compact αποθηκευμένα προγράμματα εφημεριών με προεπισκόπηση.",
-      "Οργανωμένες ρυθμίσεις λογαριασμού, εμφάνισης, widget, ενημερώσεων και cloud.",
-      "Νέα διαμόρφωση αρχικής οθόνης με επιλογή των ενοτήτων που εμφανίζονται.",
-      "Αποφυγή διπλότυπων εφημεριών και συνημμένων εικόνων.",
-      "Σταθερό μήνυμα προόδου κατά τη σύνδεση και λήψη του κρυπτογραφημένου αρχείου."
+      "Zoom με pinch και πλήκτρα στη φωτογραφική προεπισκόπηση συνημμένων.",
+      "Παρατεταμένο πάτημα στην εικόνα για αποθήκευση στη συσκευή.",
+      "Νέα επιλογή Στατιστικά στη διαμόρφωση αρχικής οθόνης και συνοπτικά στατιστικά στην Επισκόπηση.",
+      "Η προηγούμενη λειτουργία διατήρησης σύνδεσης, compact εφημερίες και αποφυγή διπλότυπων παραμένουν ενεργές."
     ]
   }
 }
