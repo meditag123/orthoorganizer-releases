@@ -1,27 +1,27 @@
 {
   "desktop": {
-    "version": "0.4.9",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.9/OrthoOrganizer_Setup_v0_4_9.exe",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.9",
+    "version": "0.4.14",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.14/OrthoOrganizer_Setup_v0_4_14.exe",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.14",
     "notes": [
-      "Πατρώνυμο, αυτόματη ηλικία από ΑΜΚΑ, βοηθοί και προσωπικό ιστορικό ασθενούς.",
-      "Προτάσεις κειμένου για διάγνωση και επέμβαση.",
-      "Εισαγωγή Excel με διατήρηση όλων των διαθέσιμων στοιχείων.",
-      "Διόρθωση εταιρειών υλικών, πλευράς και στατιστικών.",
-      "Νέος installer που ενημερώνει την υπάρχουσα εγκατάσταση χωρίς διαγραφή δεδομένων ή backup."
+      "Πατρώνυμο, ηλικία από ΑΜΚΑ, βοηθοί και προσωπικός φάκελος ασθενούς.",
+      "Προτάσεις κειμένου για διάγνωση/επέμβαση και λήψη ή εκτύπωση εικόνων.",
+      "Excel: όλες οι μη κενές γραμμές, πάθηση στη διάγνωση και αυτόματη πλευρά.",
+      "Νέα εγκατάσταση ενημέρωσης χωρίς διαγραφή δεδομένων.",
+      "Ρυθμιζόμενος αυτόματος έλεγχος ενημερώσεων.",
+      "Η λήψη της ενημέρωσης γίνεται μέσα από την εφαρμογή με ποσοστό προόδου και εκκίνηση installer.",
+      "Επίσημο navy/teal λογότυπο σε εφαρμογή, taskbar, συντομεύσεις και installer· διορθωμένο καθαρό εικονίδιο επιφάνειας εργασίας και ασφαλές κλείσιμο πριν την ενημέρωση."
     ]
   },
   "android": {
-    "version": "0.6.1",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.1/OrthoOrganizerMobile_v0_6_1.apk",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.1",
+    "version": "0.6.3",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.6.3/OrthoOrganizerMobile_v0_6_3.apk",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.6.3",
     "notes": [
-      "Εμφανής τρέχουσα έκδοση στην αρχική οθόνη (v0.6.1).",
-      "Νέο πλευρικό hamburger menu με Επισκόπηση, Εφημερίες, Χειρουργεία, Στατιστικά, Widget και Ρυθμίσεις.",
-      "Ένδειξη προόδου στον έλεγχο ενημερώσεων.",
-      "Πλήρης εισαγωγή Excel και επεξεργασία εγγραφών.",
-      "Η 0.6.1 είναι κανονική αναβάθμιση από την 0.6.0.",
-      "Για την παλιά 0.5.9 απαιτείται μία καθαρή εγκατάσταση λόγω αλλαγής signing key· τα cloud δεδομένα παραμένουν."
+      "Πατρώνυμο, ηλικία από ΑΜΚΑ, βοηθοί και αυτόματες προτάσεις κειμένου.",
+      "Πλήρης εισαγωγή Excel και αποθήκευση νέων εταιρειών υλικών.",
+      "Αυτόματος έλεγχος ενημερώσεων από GitHub.",
+      "Επίσημο navy/teal λογότυπο launcher και μέσα στην εφαρμογή."
     ]
   }
 }
