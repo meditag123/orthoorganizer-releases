@@ -1,13 +1,14 @@
 {
   "desktop": {
-    "version": "0.4.8",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.8/OrthoOrganizer_Setup_v0_4_8.exe",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.8",
+    "version": "0.4.9",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.9/OrthoOrganizer_Setup_v0_4_9.exe",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.9",
     "notes": [
-      "Όλοι οι τύποι εφημερίας εμφανίζονται στην Επισκόπηση.",
-      "Η εισαγωγή μεγάλων αρχείων Excel γίνεται χωρίς να παγώνει το παράθυρο.",
-      "Ο έλεγχος ενημερώσεων δείχνει ορατή πρόοδο και μήνυμα σφάλματος αν αποτύχει.",
-      "Η 0.4.8 διορθώνει το πάγωμα του Χειρουργικού αρχείου με μεγάλα ιστορικά και κρατά όλες τις εγγραφές κυλιόμενες."
+      "Πατρώνυμο, αυτόματη ηλικία από ΑΜΚΑ, βοηθοί και προσωπικό ιστορικό ασθενούς.",
+      "Προτάσεις κειμένου για διάγνωση και επέμβαση.",
+      "Εισαγωγή Excel με διατήρηση όλων των διαθέσιμων στοιχείων.",
+      "Διόρθωση εταιρειών υλικών, πλευράς και στατιστικών.",
+      "Νέος installer που ενημερώνει την υπάρχουσα εγκατάσταση χωρίς διαγραφή δεδομένων ή backup."
     ]
   },
   "android": {
