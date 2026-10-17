@@ -1,8 +1,8 @@
 {
   "desktop": {
-    "version": "0.4.19",
-    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.19/OrthoOrganizer_Setup_v0_4_19_Upgrade_RC.exe",
-    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.19",
+    "version": "0.4.20",
+    "download_url": "https://github.com/meditag123/orthoorganizer-releases/releases/download/v0.4.20/OrthoOrganizer_Setup_v0_4_20_Upgrade_RC.exe",
+    "release_url": "https://github.com/meditag123/orthoorganizer-releases/releases/tag/v0.4.20",
     "mandatory": false,
     "notes": [
       "Νέος πίνακας Excel: επιλογή στηλών, συνοπτική και αναλυτική εμφάνιση.",
@@ -10,6 +10,7 @@
       "Το περιεχόμενο των σημειώσεων εμφανίζεται ως πρακτικό στο Excel.",
       "Επιδιόρθωση της μορφοποίησης Excel και συμβατότητα εκτύπωσης.",
       "Επικοινωνία: προβολή απαντήσεων διαχειριστή και ειδοποιήσεις Windows.",
+      "Διορθώθηκε το παράθυρο που δεν άνοιγε όταν βρισκόταν νέα ενημέρωση. Τώρα ο έλεγχος εμφανίζει κανονικά τη διαθέσιμη έκδοση.",
       "Διορθώσεις ελληνικών μηνυμάτων και καταστάσεων αιτημάτων.",
       "Αναβάθμιση ίδιας εγκατάστασης με διατήρηση αρχείου και backup."
     ]
